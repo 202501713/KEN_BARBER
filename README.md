@@ -1,7 +1,19 @@
-KEN BARBER — URBAN SILVER
+# JAMES BARBER SHOP — Urban Silver
 
-Sube TODOS los archivos de esta carpeta a la raíz del repositorio KEN_BARBER de GitHub (no subas la carpeta contenedora). Incluye index.html, styles.css, script.js y corte-1.webp hasta corte-7.webp.
+Sitio web estático para GitHub Pages. Incluye HTML, CSS, JavaScript y todas las fotografías.
 
-GitHub Pages: rama main, carpeta /(root). Después de Commit changes espera a que termine Actions y actualiza la página.
+## Publicación en GitHub
+1. Abre https://github.com/202501713/KEN_BARBER
+2. Sube **el contenido** de esta carpeta a la raíz del repositorio (index.html, styles.css, script.js y carpeta assets).
+3. Si GitHub no permite reemplazar archivos desde Upload files, edítalos individualmente o usa Git desde VS Code.
+4. Confirma en Settings > Pages que se publica desde main / (root).
+5. Espera a que termine el despliegue y abre https://202501713.github.io/KEN_BARBER/
 
-Las citas se solicitan por WhatsApp; no se bloquean horarios automáticamente.
+**Importante:** no subas solamente el ZIP; descomprímelo primero. No hace falta borrar las fotos anteriores.
+
+## Funcionamiento
+- Las citas se envían por WhatsApp al +504 3313-3822 y requieren confirmación manual. No existe agenda sincronizada ni bloqueo automático de horarios.
+- Horarios tomados del catálogo de WhatsApp facilitado anteriormente. Verifícalos antes de publicar.
+- Las redes sociales se enlazan usando los nombres de usuario proporcionados; comprueba que sean los perfiles correctos.
+- La cuenta BAC se muestra para copiar; no procesa pagos.
+- No se necesita servidor ni instalación de dependencias.
